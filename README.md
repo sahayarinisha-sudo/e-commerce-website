@@ -46,15 +46,14 @@ Easy to extend / customize
 Clone the repository:
 
 How to Run / Usage
-git clone https://github.com/sabin9679/NM-e-commerce-web.git
+git clone:https://github.com/sahayarinisha-sudo/e-commerce-website.git
 
 To run this project locally, follow these steps:
 
 Clone the repository
 Go to the project directory:
 
-git clone https://github.com/sabin9679/NM-e-commerce-web.git
-cd NM-e-commerce-web
+git clone https:https://sahayarinisha-sudo.github.io/e-commerce-website/
 
 
 Navigate into the project folder

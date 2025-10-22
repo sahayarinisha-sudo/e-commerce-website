@@ -1,4 +1,4 @@
-Description
+
 🛍️ Description
 
 This project is a front-end implementation of an e-commerce site (NM). It enables users to browse products, view product details, add items to a shopping cart, and simulate checkout (frontend logic only). The UI is responsive to different screen sizes (desktop, tablet, mobile).
@@ -7,9 +7,9 @@ It allows users to browse different products, view details, add them to a cart, 
 This project focuses on user interface design, interactivity, and responsiveness without using any backend.
 
 You can think of it as a “mock” e-commerce frontend (no backend, no real payments) that demonstrates interactive features, DOM manipulation, and state management in vanilla JS.
+
 ✨ Features
 
-Features
 Responsive layout for desktop, tablet, and mobile
 
 Here are the main features / functionality included:
@@ -37,6 +37,7 @@ JavaScript-based state management (keeping cart in memory)
 Easy to customize and extend
 
 Basic styling with CSS
+
 ⚙️ How to Run
 
 Modular code structure (HTML, CSS, JS separated)
@@ -66,6 +67,7 @@ OR run a local server:
 
 Open in browser
 Open the index.html file in your browser (you can double-click it or open index.html).
+
 # Using Python
 python3 -m http.server 8000
 
@@ -98,6 +100,7 @@ python3 -m http.server 8000
 # or use VSCode Live Server plugin
 Simulate checkout
 
+
 🚀 Technologies Used
 
 HTML5 – Structure of the web pages
@@ -105,6 +108,7 @@ HTML5 – Structure of the web pages
 CSS3 – Styling and responsive layout
 
 JavaScript (Vanilla JS) – Logic for interactivity and cart management
+
 
 🧠 Challenges Faced
 
@@ -121,6 +125,7 @@ During the development, I encountered and overcame several challenges. Some nota
 Edge Cases: Handling product removal, zero quantities, and total recalculation.
 
 State management in vanilla JS — Keeping track of the cart state (items, quantities, totals) purely in JavaScript without frameworks required careful logic.
+
 💡 What I Learned
 
 Updating UI dynamically — When quantities changed or items removed, re-rendering parts of the UI (cart list, totals) and ensuring DOM updates correctly.
